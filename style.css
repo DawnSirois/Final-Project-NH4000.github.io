@@ -562,11 +562,11 @@ p {
 .mountain-icon {
   z-index: 1;
   position: absolute; 
-  backface-visibility: hidden;
+  /* backface-visibility: hidden; */
   -webkit-backface-visibility: hidden;
   top: 160px;
   left: 115px;
-  /* transform: translate3d(0,0,0);  */
+
 
 }
 
@@ -641,6 +641,7 @@ p {
   padding-bottom: 10px;
   color: #fff;  
 }
+
 
 .footer-text {
   color:#C8D1D3;
