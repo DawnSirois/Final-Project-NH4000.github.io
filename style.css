@@ -561,8 +561,8 @@ p {
 
 .mountain-icon {
   z-index: 1;
-  position: absolute; 
-  /* backface-visibility: hidden; */
+  position: relative; 
+  backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   top: 160px;
   left: 115px;
