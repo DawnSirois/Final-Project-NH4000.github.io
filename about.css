@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "europa", sans-serif;
+  
+  }
+  
+  p, h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4em;
+    letter-spacing: .063rem;
+    color: white;
+  
+  }
+  
+  body {
+    background: linear-gradient(25deg, #324755, #87BCBF);
+    height: 100vh;
+    width: auto;
+  
+  }
+  
+  #container404 {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: url("./Images/XDwallpaper.png") repeat, center;
+    padding: 100px;
+    background-color: #324755;
+    box-shadow: 0, 15px, 30px, rgba(0,0,0,0.5);
+  
+  }
+  
+  #container404 .content {
+  max-width: 600px;
+  text-align: center;
+  
+  }
+  
+  #container404 .content h1 {
+    font-size: 18vw;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    line-height: 1em;
+  }
+  
+  #container404 .content h3 {
+    position: relative;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color:white;
+    font-weight: 700;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    padding: 10px;
+    display: inline-block;
+
+  }
+  
+  #container404 .content p {
+    font-size: 1.2em;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    /* animation: fadeIn 25s infinite alternate; */
+  }
+
+  /* @keyframes fadeIn { 
+    from { opacity: 0; } 
+  } */
+
+  
+  #container404 .content a {
+    position: relative;
+    display: inline-block;
+    padding: 10px 25px;
+    background-color: #D97D54;
+    color: white;
+    text-decoration: none;
+    margin-top: 40px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  
+  }
+
+  @media only screen and (max-width: 768px) {
+    #container404 .content a {
+      padding: 15px 25px;
+
+      }
+    }
+
+
+  #container404 .content a:hover {
+    background-color:rgba(193, 107, 3, 0.728);
+    color: white;
+
+
+  }
+
+  /* text infiniate 25s */
+.bob:before {
+  content: 'Looks like I may be out on the trails';
+  animation: text infinite 25s;
+}
+
+
+/* Animating the text */
+
+@keyframes text {
+  0% {
+      content: '"Theres nothing wrong with having a tree as a friend"';
+  }
+  20% {
+      content: '"Talk to the tree, make friends with it"';
+  }
+  40% {
+      content: '"This is happy place; little squirrels live here and play"';
+  }
+  60% {
+      content: '“Go out on limb. That’s where the fruit is.”';
+  }
+  80% {
+      content: '"The trees are oh so soft, oh so soft I freakin love it"';
+  }
+  100% {
+      content: '“That’s a crooked tree. We’ll send him to Washington.”';
+  }
+}
+

@@ -1,0 +1,36 @@
+<svg id="Component_59_2" data-name="Component 59 – 2" xmlns="http://www.w3.org/2000/svg" width="70" height="50" viewBox="0 0 70 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bf272d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #fdfdfd;
+        font-size: 9px;
+        font-family: Helvetica-Light, Helvetica;
+        font-weight: 300;
+        letter-spacing: 0.04em;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: #fdfdfd;
+      }
+    </style>
+  </defs>
+  <path id="Path_153" data-name="Path 153" class="cls-1" d="M35,0,70,50H0Z"/>
+  <g id="Path_152" data-name="Path 152" class="cls-2" transform="translate(20 4.284)">
+    <path class="cls-4" d="M 28.58007621765137 18.94010162353516 L 18.85663032531738 15.33391952514648 L 18.59785079956055 15.23795032501221 L 18.37873077392578 15.40577983856201 L 14.21317195892334 18.59629440307617 L 10.78444957733154 15.43511962890625 L 10.55220985412598 15.2209997177124 L 10.25909996032715 15.33876991271973 L 1.473090767860413 18.86921310424805 L 15 0.8333333134651184 L 28.58007621765137 18.94010162353516 Z"/>
+    <path class="cls-5" d="M 15 1.666666030883789 L 2.9461669921875 17.73844528198242 L 10.65888977050781 14.63926982879639 L 14.24295425415039 17.94366836547852 L 18.51292991638184 14.67317962646484 L 27.1601676940918 17.88022232055664 L 15 1.666666030883789 M 15 0 L 30 20 L 18.68276023864746 15.80272006988525 L 14.18338966369629 19.24891090393066 L 10.44552993774414 15.80272006988525 L 0 20 L 15 0 Z"/>
+  </g>
+  <text id="Wc" class="cls-3" transform="translate(21 28)"><tspan x="7.318" y="7">Wc</tspan></text>
+  <text id="_4422" data-name="4422" class="cls-3" transform="translate(24 39)"><tspan x="0" y="7">4422</tspan></text>
+</svg>
