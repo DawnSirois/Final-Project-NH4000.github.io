@@ -140,7 +140,7 @@ p {
 
 .hamburger-right-mobile {
   display: none;
-  padding-right: 20px;
+  padding-right: 10px;
   cursor: pointer;
 
 }
@@ -153,9 +153,9 @@ p {
 
 
 .hamburger {
-  height: 26px;
+  height: 36px;
   fill: white;
-  padding-right: 20px;
+  padding-right: 10px;
 
 }
 
@@ -399,6 +399,7 @@ p {
   backface-visibility: hidden;
   box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
   border-radius: 10px;
+  -webkit-backface-visibility: hidden;
 
 }
 
@@ -426,6 +427,7 @@ p {
 .flip-card-back {
   background-color: white;
   transform: rotateY(180deg);
+
   
 }
 
@@ -468,7 +470,7 @@ p {
     font-size: 10px;
     color: #5f6b72;
     margin-bottom: 10px;
-    /* font-family: */
+ 
   }
 
   .ranking {
@@ -561,6 +563,7 @@ p {
   z-index: 1;
   position: fixed;
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
   top: 160px;
   left: 115px;
 
