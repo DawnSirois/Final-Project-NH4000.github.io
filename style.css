@@ -566,6 +566,7 @@ p {
   -webkit-backface-visibility: hidden;
   top: 160px;
   left: 115px;
+  transform: translate3d(0,0,0); 
 
 }
 
