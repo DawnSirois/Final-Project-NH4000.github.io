@@ -84,14 +84,6 @@
   
   }
 
-  /* @media only screen and (max-width: 768px) {
-    #container404 .content a {
-      padding: 20px 40px;
-      font-size: 24px;
-
-      }
-    } */
-
 
   #container404 .content a:hover {
     background-color:rgba(193, 107, 3, 0.728);
@@ -100,7 +92,7 @@
 
   }
 
-  /* text infiniate 25s */
+  /* text infiniate 25s - does not work on IOS/Safari or Chrome on an IOS device*/
 .bob:before {
   content: 'Looks like I may be out on the trails';
   animation: text infinite 25s;

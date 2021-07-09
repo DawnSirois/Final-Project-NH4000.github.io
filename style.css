@@ -364,7 +364,7 @@ p {
 }
 
 /* flip cards */
-/* media query for mobile to make card smaller */
+
 .flip-card-container {
   width: 300px;
   height: 300px;
@@ -566,7 +566,7 @@ p {
   -webkit-backface-visibility: hidden;
   top: 160px;
   left: 115px;
-
+  min-height: 50px;
 
 }
 
