@@ -5,6 +5,7 @@ Hiking the New Hampshire 4000 Footers
 
 <p><a href="https://dawnsirois.github.io/Final-Project-NH4000.github.io/index.html" target="_blank">NH48 Project</a></p>
 
+
 **What am I making?**
 
 Create an interactive and informational website about the NH 4000 Footers. Hiking the 4000 footers in NH has become very popular. There are so many resources out on the web to get information on ratings, weather, suggested packing and safety precautions.
@@ -15,13 +16,15 @@ Resource page
 
  
 
-**Why did I make this? **
+**Why did I make this?**
+
 
 I made this because I have a passion for hiking and think it will be nice to have it out on the web or even share with the AMC (Appalachian Mountain Club). Currently there are several non user-friendly websites around with information sprinked everywhere. Most are not mobile friendly.
 
  
 
 **My audience**
+
 
 My intended audience is for hikers, with a focus on new hikers looking to get some basic foundational information and resources on the NH 48’s. 
 
@@ -34,6 +37,7 @@ HTML, CSS, CSS Animations, JS
  
 
 **What it does**
+
 Each card contains the basic information of each peak. On click of the card, more information is presented to the user. On each card, there is a link to the current mountain and trail conditions. 
 
 The resource page contains important linked information related to the 4000 footers in NH. 
