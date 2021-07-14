@@ -264,7 +264,7 @@ ul.bullet-list li {
 /* hero banner */
 
 .hero-banner { 
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./Images/Resource.jpeg);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./Images/Resource-image1.jpeg);
   background-size: cover;
   height: 400px;
   background-position: center;
