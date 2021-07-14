@@ -11,8 +11,8 @@ const flipCardContainer = document.querySelectorAll(".flip-card");
 
 var container = document.getElementById('container404');
       window.onmousemove = function(e){
-        var x =  e.clientX/20,
-            y =  e.clientY/20;
+        var x =  e.clientX/15,
+            y =  e.clientY/15;
         container.style.backgroundPositionX = x + 'px';
         container.style.backgroundPositionY = y + 'px';
 
